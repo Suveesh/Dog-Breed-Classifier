@@ -1,6 +1,6 @@
-## Udacity dog breed project
+## Udacity dog breed classification project
 
-# [Medium Blog Post](https://suveesh-m92.medium.com/dog-breed-classification-udacity-capstone-project-using-convolutional-neural-network-791bfb8725f5)
+[Medium Blog Post](https://suveesh-m92.medium.com/dog-breed-classification-udacity-capstone-project-using-convolutional-neural-network-791bfb8725f5)
 
 # Overview
 Build a pipeline to process real-world, user-supplied images.  
